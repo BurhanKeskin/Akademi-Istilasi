@@ -1,6 +1,6 @@
 # Akademi-Istilasi
-U-35(Dış Minnaklar) takımının Oyun ve Uygulama Akademisi 2023 Gamejam Projesi__
-48 Saat içerisinde sıfırdan başlayarak "Akademi İstilası" oyunumuzu yayınlamayı başardık.__
+U-35(Dış Minnaklar) takımının Oyun ve Uygulama Akademisi 2023 Gamejam Projesi  
+48 Saat içerisinde sıfırdan başlayarak "Akademi İstilası" oyunumuzu yayınlamayı başardık.  
 https://www.linkedin.com/in/burhankeskin/
 
 ![mainmenu](https://user-images.githubusercontent.com/91319092/230799784-358ada4b-da4d-4b75-b055-8115a106f0c8.png)
